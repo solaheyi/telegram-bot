@@ -1,9 +1,0 @@
-{
-  "name": "telegram-bot",
-  "version": "1.0.0",
-  "description": "Telegram message filter for Make.com",
-  "main": "api/telegram-webhook.js",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
